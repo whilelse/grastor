@@ -1,0 +1,17 @@
+{
+  "name": "whilelse-graph",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Levente Bagi",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "livescript": "^1.4.0",
+    "mocha": "^2.4.5",
+    "prelude-ls": "^1.1.2"
+  }
+}
