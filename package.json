@@ -1,7 +1,7 @@
 {
-  "name": "whilelse-graph",
+  "name": "grastor",
   "version": "0.0.1",
-  "description": "",
+  "description": "Graph storage mechanism for Whilelse",
   "main": "./lib/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
